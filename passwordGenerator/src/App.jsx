@@ -41,7 +41,6 @@ function App() {
         <input type="text" value={password} className='outline-none w-full py-1 px-3' placeholder='passowrd' readOnly ref={passwordRef}/>
         <button className='outline-none bg-blue-700 text-white px-3 py-0.5 shrink-0' onClick={passwordCopy}>Copy</button>
       </div>
-      
       <div className='flex flex-wrap gap-4'>
       <div className='flex flex-wrap gap-2'>
         <input type='range' min={8} max={50} value={length} className='cursor-pointer' onChange={(e)=>{setLength(e.target.value)}} />
