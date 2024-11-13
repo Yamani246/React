@@ -17,11 +17,12 @@ This repository contains a collection of basic React projects designed to showca
 - **Key Concepts**: `Custom Hooks`, `useState`, API integration
 
 ### 4. **Custom Hooks**
-- **Description**: A basic project showing how React works.
+- **Description**: A collection of custom React hooks to handle various tasks, such as fetching data or managing form inputs. This helps in understanding how to create reusable logic in React.
+- **Key Concepts**: `Custom Hooks`, `useState`, `useEffect`
+
 
 ### 5. **Custom React**
-- **Description**: A simple project showcasing the basics of React, focusing on creating custom components and managing state. It demonstrates the core React concepts, such as props, state, and event handling.
-- **Key Concepts**: `useState`, `props`, component design
+- **Description**: A basic project showing how React works.
 
 ### 6. **Password Generator**
 - **Description**: A password generator that creates random passwords with varying lengths and complexity. This project showcases the use of state management and event handling.
